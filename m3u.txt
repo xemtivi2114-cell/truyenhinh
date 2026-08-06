@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
+2#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -243,16 +243,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=89
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.ytimg.com/vi/cTNt-U1akXw/hq720.jpg", QTV3 HD - Báo và PTTH Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL1.webp", THVL1 - Báo và PTTH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL1.webp", Vĩnh Long 1 - Báo và PTTH Vĩnh Long
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL2.webp", THVL2 - Báo và PTTH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL2.webp", Vĩnh Long 2 - Báo và PTTH Vĩnh Long
 https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL3.webp", THVL3 - Báo và PTTH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL3.webp", Vĩnh Long 3 - Báo và PTTH Vĩnh Long
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL4.webp", THVL4 - Báo và PTTH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL4.webp", Vĩnh Long 4 - Báo và PTTH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL5.webp", THVL5 - Báo và PTTH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL5.webp", Vĩnh Long 5 - Báo và PTTH Vĩnh Long
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="angiang2" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg", ATV2 | Báo và PTTH An Giang
 https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
